@@ -1,0 +1,58 @@
+version: 1
+project:
+  title: >-
+    Reproducibility study of the Fabbri et al. 2017 model of the human sinus
+    node action potential
+  authors:
+    - name: Nima Afshar
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+      corresponding: true
+      email: nima.afshar@auckland.ac.nz
+    - name: Alan Fabbri
+      affiliations:
+        - >-
+          Computational Physiopathology Unit, Department of Electrical,
+          Electronic and Information Engineering “Guglielmo Marconi”, University
+          of Bologna, Cesena, Italy
+    - name: Stefano Severi
+      affiliations:
+        - >-
+          Computational Physiopathology Unit, Department of Electrical,
+          Electronic and Information Engineering “Guglielmo Marconi”, University
+          of Bologna, Cesena, Italy
+    - name: Alan Garny
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: David Nickerson
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  keywords:
+    - Physiome
+    - CellML
+    - OpenCOR
+    - reproducibility
+    - action potentials
+    - cardiac electrophysiology
+    - cardiovascular models
+    - ion channels
+    - sinoatrial node
+  open_access: true
+  license: CC-BY-4.0
+site:
+  projects:
+    - slug: S000010
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Afshar2021PhysiomeS0000010.pdf
+      static: true
+    - title: omex
+      url: Afshar2021PhysiomeS0000010.omex
+      static: true
+    - title: primary
+      url: https://doi.org/unknown
+  title: >-
+    Reproducibility study of the Fabbri et al. 2017 model of the human sinus
+    node action potential
