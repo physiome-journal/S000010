@@ -39,6 +39,8 @@ project:
     - sinoatrial node
   open_access: true
   license: CC-BY-4.0
+  numbering:
+    heading_2: true
 site:
   projects:
     - slug: S000010
