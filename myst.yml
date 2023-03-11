@@ -5,26 +5,31 @@ project:
     node action potential
   authors:
     - name: Nima Afshar
+      orcid: 0000-0002-6671-6920
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
       corresponding: true
       email: nima.afshar@auckland.ac.nz
     - name: Alan Fabbri
+      orcid: 0000-0002-3983-1640
       affiliations:
         - >-
           Computational Physiopathology Unit, Department of Electrical,
           Electronic and Information Engineering “Guglielmo Marconi”, University
           of Bologna, Cesena, Italy
     - name: Stefano Severi
+      orcid: 0000-0003-4306-8294
       affiliations:
         - >-
           Computational Physiopathology Unit, Department of Electrical,
           Electronic and Information Engineering “Guglielmo Marconi”, University
           of Bologna, Cesena, Italy
     - name: Alan Garny
+      orcid: 0000-0001-7606-5888
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
     - name: David Nickerson
+      orcid: 0000-0003-4667-9779
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
   keywords:
@@ -39,6 +44,9 @@ project:
     - sinoatrial node
   open_access: true
   license: CC-BY-4.0
+  subject: Original
+  date: 2021/09/01
+  doi: 10.36903/physiome.16550526
 site:
   projects:
     - slug: S000010
@@ -52,7 +60,7 @@ site:
       url: Afshar2021PhysiomeS0000010.omex
       static: true
     - title: primary
-      url: https://doi.org/unknown
+      url: https://doi.org/10.1113/jp273259
   title: >-
     Reproducibility study of the Fabbri et al. 2017 model of the human sinus
     node action potential
