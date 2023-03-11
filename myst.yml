@@ -44,6 +44,8 @@ project:
     - sinoatrial node
   open_access: true
   license: CC-BY-4.0
+  numbering:
+    heading_2: true
   subject: Original
   date: 2021/09/01
   doi: 10.36903/physiome.16550526
