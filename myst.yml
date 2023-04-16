@@ -32,6 +32,22 @@ project:
       orcid: 0000-0003-4667-9779
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  editors:
+    - name: Shelley Fong
+      orcid: 0000-0001-8610-1088
+      role: Editor
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Weiwei Ai
+      orcid: 0000-0001-5602-5707
+      role: Curator
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  history:
+    - date: 2021/08/11
+      type: accepted
+    - date: 2021/09/01
+      type: published
   keywords:
     - Physiome
     - CellML
