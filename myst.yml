@@ -3,6 +3,12 @@ project:
   title: >-
     Reproducibility study of the Fabbri et al. 2017 model of the human sinus
     node action potential
+  description: >-
+    The sinoatrial node (SAN) is the natural pacemaker of the mammalian heart.
+    It has been the subject of several mathematical studies, aimed at
+    reproducing its electrical response under normal sinus rhythms, as well as
+    under various conditions.
+  thumbnail: thumbnail.png
   authors:
     - name: Nima Afshar
       orcid: 0000-0002-6671-6920
