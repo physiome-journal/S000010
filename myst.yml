@@ -72,10 +72,9 @@ project:
   date: 2021/09/01
   doi: 10.36903/physiome.16550526
 site:
-  projects:
-    - slug: S000010
-      path: .
-  nav: []
+  title: >-
+    Reproducibility study of the Fabbri et al. 2017 model of the human sinus
+    node action potential
   actions:
     - title: paper
       url: Afshar2021PhysiomeS0000010.pdf
@@ -85,6 +84,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1113/jp273259
-  title: >-
-    Reproducibility study of the Fabbri et al. 2017 model of the human sinus
-    node action potential
+  domains:
+    - physiome-S000010.curve.space
